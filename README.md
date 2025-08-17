@@ -1,5 +1,3 @@
 ﻿# Portfolio_1
 
-```shell
-  git clone https://github.com/Swartz9525/Portfolio_1/
-```
+
